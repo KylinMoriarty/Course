@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1564670347 source:c:\users\administrator\desktop\course\main.cpp
+	<iostream>
+	"comFinal.h"
+	"Chemistry.h"
+	"Account.h"
+	<typeinfo>
+	"string.h"
+	<assert.h>
+	<cstdio>
+
+1564488115 source:c:\users\administrator\desktop\course\account.cpp
+	"Account.h"
+	<iostream>
+
+1564489861 c:\users\administrator\desktop\course\account.h
+	"comFinal.h"
+
+1564490122 c:\users\administrator\desktop\course\comfinal.h
+	<iostream>
+
+1564489834 source:c:\users\administrator\desktop\course\comfinal.cpp
+	<iostream>
+	<string.h>
+	"comFinal.h"
+
+1564488121 source:c:\users\administrator\desktop\course\chemistry.cpp
+	"Chemistry.h"
+	<iostream>
+
+1564496594 c:\users\administrator\desktop\course\chemistry.h
+	"comFinal.h"
+
+1564496593 c:\users\administrator\desktop\course\string.h
+	<iostream>
+	<cstring>
+
+1564578352 source:c:\users\administrator\desktop\course\string.cpp
+	"string.h"
+
